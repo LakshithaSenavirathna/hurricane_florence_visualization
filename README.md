@@ -2,8 +2,7 @@
 
 This project shows the path and wind speed of **Hurricane Florence (2018)** using Python.
 
-![Florence Map](https://github.com/user-attachments/assets/6db0abfe-a855-4542-a968-e7036d407d5f)
-
+https://github.com/user-attachments/assets/d0277b25-3dc9-4be6-b539-0fde9b7355f5
 ---
 
 ### 📘 About
